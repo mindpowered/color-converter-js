@@ -1,7 +1,7 @@
 {
-    "license": "CPAL-1.0",
+    "license": "MIT",
     "name": "@mindpowered/colorconverter",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Converter to convert between various color systems such as RGB, CIELAB, CMYK, HEX, RGB, and XYZ",
     "main": "index.js",
     "dependencies": {
